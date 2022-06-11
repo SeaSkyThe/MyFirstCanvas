@@ -47,6 +47,8 @@ function draw(){
                 }
             }
         }
+
+        ctx.translate(220, 220);
         
     }
     
